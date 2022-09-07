@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+}
+.container {
+    background-color: white;
+min-height: 100vh;
+}
+
+label[for="fruit_3"] {
+font-weight: bold;
+}
